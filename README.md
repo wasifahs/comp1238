@@ -6,7 +6,7 @@
 - [Comp1238 notes](comp1238.md)
  
 - Monday
--  13:00 - COMP1238 - Data Mgmnt
--  6:00 - COMP0000 - Not a real course
+  -13:00 - COMP1238 - Data Mgmnt
+  -6:00 - COMP0000 - Not a real course
 - Tuesday
--  etc
+  -etc
