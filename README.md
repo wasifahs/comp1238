@@ -6,7 +6,9 @@
 - [Comp1238 notes](comp1238.md)
  
 - Monday
-  - 13:00 - COMP1238 - Data Mgmnt
-  - 6:00 - COMP0000 - Not a real course
+  - 16:00 - COMP1236 - https://learn.georgebrown.ca/d2l/home/337951
+  - 18:00 - COMP1234 - https://learn.georgebrown.ca/d2l/home/342901
 - Tuesday
-  -etc
+  - 10:00 - COMP1163 - https://learn.georgebrown.ca/d2l/home/325357
+  - 16:00 - COMP1238 - https://learn.georgebrown.ca/d2l/home/337951
+  - 18:00 - COMP1151 - https://learn.georgebrown.ca/d2l/home/335101
